@@ -1,2 +1,2 @@
-# Ak-ll-Bot
+# Akıllı Bot
 Akıllı Botumun Müthiş Komutları
